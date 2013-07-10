@@ -4,7 +4,7 @@
  * Created July 10, 2013
  *
  * Description: Small class that provides approximate distance between
- * two points using the Haversine function.
+ * two points using the Haversine formula.
  *
  * Call in a static context:
  * Haversine.distance(47.6788206, -122.3271205,
