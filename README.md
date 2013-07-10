@@ -1,7 +1,7 @@
 haversine
 =========
 
-Small Java class for calculating the distance between two points using the Haversine function.
+Small Java class for calculating the distance between two points using the Haversine formula.
 
 ```java
 public static double distance(double startLat, double startLong,
